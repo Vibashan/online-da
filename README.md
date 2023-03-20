@@ -4,7 +4,7 @@
 
 [Vibashan VS](https://vibashan.github.io/), [Poojan Oza](https://www.linkedin.com/in/poojan-oza-a7b68350/), [Vishal M Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en)
 
-[[`Project Page`](https://viudomain.github.io/)] [[`WACV`](https://openaccess.thecvf.com/content/WACV2023/html/VS_Towards_Online_Domain_Adaptive_Object_Detection_WACV_2023_paper.html)] [[`pdf`](https://openaccess.thecvf.com/content/WACV2023/papers/VS_Towards_Online_Domain_Adaptive_Object_Detection_WACV_2023_paper.pdf)] [[`BibTeX`](https://scholar.googleusercontent.com/scholar.bib?q=info:VJ7AsVhW98wJ:scholar.google.com/&output=citation&scisdr=CgUBovIJENaMkoi-KRU:AAGBfm0AAAAAZBe4MRUBSRYehSt7zkFKbeUC0hnp0RNI&scisig=AAGBfm0AAAAAZBe4MYZXcqN06266y0bbxrtfd40JRuFf&scisf=4&ct=citation&cd=-1&hl=en)]
+[[`Project Page`](https://viudomain.github.io/)] [[`WACV`](https://openaccess.thecvf.com/content/WACV2023/html/VS_Towards_Online_Domain_Adaptive_Object_Detection_WACV_2023_paper.html)] [[`pdf`](https://openaccess.thecvf.com/content/WACV2023/papers/VS_Towards_Online_Domain_Adaptive_Object_Detection_WACV_2023_paper.pdf)] [[`BibTeX`](https://github.com/Vibashan/online-da/blob/main/reference.bib)]
 
 <p align="center">
   <img src="imgs/Archi.png" width="800"/>
